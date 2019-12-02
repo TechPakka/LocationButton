@@ -24,7 +24,7 @@ allprojects {
 Add following dependency inside app level build.gradle
 
 ```
-implementation 'com.github.jitpack:android-example:1.0.1'
+implementation 'com.github.TechPakka:LocationButton:1.0'
 ```
 
 Add these permissions inside manifest file
